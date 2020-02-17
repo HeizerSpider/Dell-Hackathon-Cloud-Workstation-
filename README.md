@@ -3,9 +3,13 @@
 ### (Cover Slide)
 ![s1](/slides/S1.png)
 
+---------------------------------------------------
+
 ### Slide 1)  
 ![s2](/slides/S2.png)
 References: https://www.smallbizgenius.net/by-the-numbers/remote-work-statistics/#gref  
+
+---------------------------------------------------
 
 ### Slide 2)  
 ![s3](/slides/S3.png)
@@ -15,12 +19,16 @@ Integrated ‘cloud Kanban board’ will show the tasks on the screen/board, con
 Team members working on the same tasks will also be able to see changes on the board in real-time
 Security will also be addressed, given that the devices are linked on the cloud, and hence, more could be done such as connecting the devices to user’s mobile device to alert on any changes/unauthorized use of workstation (some other future possible developments)
 
+---------------------------------------------------
+
 ### Slide 3)  
 ![s4](/slides/S4.png)
 References and case studies:
 Omnidesk
 Jira Project Management
 https://www.electronicdesign.com/technologies/embedded-revolution/article/21805149/11-myths-about-epaper-displays
+
+---------------------------------------------------
 
 ### Slide 4)  
 ![s5](/slides/S5.png)
